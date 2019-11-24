@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+
+.NavBar {
+  background-color: gold;
+}
+
+.FoodList {
+  background-color: antiquewhite;
+}
+
+.FoodItem {
+  background-color: coral
+  }
