@@ -7,8 +7,10 @@ class Diary extends Component {
 
         return(
             <Fragment>
+                <div className="DiaryEntry">
             <h3>Ich bin der Diary. I pass down to DiaryEntry.</h3>
             <DiaryEntry/>
+            </div>
             </Fragment>
         )
     }
