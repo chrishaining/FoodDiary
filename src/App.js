@@ -4,7 +4,7 @@ import Dashboard from './Dashboard';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <h1>Ich bin App.js: hallo und wilkommen in meiner App! </h1>
       <Dashboard/>
     </div>

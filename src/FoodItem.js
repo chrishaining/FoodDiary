@@ -16,7 +16,7 @@ const FoodItem = ({ foodItem, onFoodItemSelected }) => {
             <div className="FoodItem"
             onClick={handleClick}>
         <h4>Ich bin ein food item.</h4>
-        <p>A {foodItem.name} is a {foodItem.type}. Its colour is {foodItem.colour}</p>
+        {/* <p>A {foodItem.name} is a {foodItem.type}. Its colour is {foodItem.colour}</p> */}
         </div>
         </Fragment>
     )

@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+height: auto%;
+width: 100%  
+
 }
 
 .App-logo {
@@ -23,16 +26,37 @@
 
 .NavBar {
   background-color: gold;
+  padding: 10px 50px 10px 50px;
+  border: solid;
+  margin: 10px;
+  text-align: left;
 }
 
 .FoodList {
   background-color: antiquewhite;
+  padding: 10px;
+  border: solid;
+  margin: 10px;
 }
 
 .FoodItem {
-  background-color: coral
+  background-color: coral;
+  padding: 10px;
+  border: solid;
+  margin: 10px;
   }
+
+.Diary {
+  /* height: "50vh"; */
+  background-color: hotpink;
+  padding: 50px;
+  border: solid;
+  margin: 10px;
+}
 
 .DiaryEntry {
   background-color: #09d3ac;
+  padding: 10px;
+  border: solid;
+  margin: 10px;
 }
